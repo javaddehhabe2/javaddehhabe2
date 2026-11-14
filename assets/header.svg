@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Javad Dehhabe — Senior Frontend Developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a30"/><stop offset="1" stop-color="#132e3a"/></linearGradient><linearGradient id="ac"><stop stop-color="#68e4c0"/><stop offset="1" stop-color="#7db8ff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/><rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="1090" cy="50" r="170" fill="#64dec1" opacity=".05"/><circle cx="1090" cy="50" r="125" fill="none" stroke="#64dec1" stroke-opacity=".15"/>
+<rect x="55" y="48" width="240" height="30" rx="15" fill="#203c46"/><circle cx="73" cy="63" r="4" fill="#68e4c0"/>
+<text x="88" y="68" fill="#a0eddb" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">BUILDING FOR THE WEB</text>
+<text x="55" y="154" fill="#f2f6fc" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Javad Dehhabe</text>
+<text x="58" y="201" fill="url(#ac)" font-family="Arial,sans-serif" font-size="27">Senior Frontend Developer</text>
+<text x="58" y="245" fill="#b6c5d7" font-family="Arial,sans-serif" font-size="18">Turning complex workflows into clear, usable interfaces.</text>
+<path d="M58 280H1142" stroke="#ffffff" stroke-opacity=".12"/>
+<text x="58" y="326" fill="#dce8f5" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">REACT  /  NEXT.JS  /  TYPESCRIPT</text>
+<text x="1140" y="326" text-anchor="end" fill="#8ca8b8" font-family="Arial,sans-serif" font-size="14">10+ YEARS OF WEB DEVELOPMENT</text>
+<g transform="translate(930 128)" fill="none" stroke="url(#ac)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="m20 0-32 32 32 32m100-64 32 32-32 32m-38-82L62 82"/></g></svg>
