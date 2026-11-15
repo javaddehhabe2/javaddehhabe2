@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/javaddehhabe2/javaddehhabe2/main/assets/header.svg" alt="Javad Dehhabe — Senior Frontend Developer. React, Next.js and TypeScript." width="100%" />
-</p>
+<h1 align="center">Javad Dehhabe · جواد ده حبه</h1>
 
 <p align="center">
   <a href="https://javaddehhabe2.github.io/">Portfolio</a> &nbsp; · &nbsp;
